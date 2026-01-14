@@ -2,19 +2,6 @@
 
 This repository serves as a comprehensive collection of my work throughout the **"The Ultimate Bootstrap Guide"** course. It contains hands-on exercises, UI experiments, and full-scale web applications designed to master **Bootstrap 5 Layouts, Forms, Components, and Advanced Helpers.**
 
----
-
-## 📁 Repository Structure
-
-Each directory represents a specific milestone in the course:
-
-- **01-EMS-Web/** (✅ Completed) - Employee Management System.
-- **02-Blog-Template/** (⏳ Upcoming) - CMS-style layout.
-- **03-Portfolio-Site/** (⏳ Upcoming) - Personal branding project.
-- **04-Advanced-Sass/** (⏳ Upcoming) - Customizing Bootstrap via Sass variables.
-
----
-
 ## 🚀 Featured Project: Employee Management System (EMS)
 
 **Status: Phase 1 Complete**
