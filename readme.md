@@ -87,5 +87,5 @@ This project integrated all core Bootstrap modules into a cohesive commercial UI
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Sobuj54/learning-bootstrap.git](https://github.com/Sobuj54/learning-bootstrap.git)
+   git clone https://github.com/Sobuj54/learning-bootstrap.git
    ```
