@@ -4,56 +4,69 @@ This repository serves as a comprehensive collection of my work throughout the *
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects (Ordered by Latest)
 
-### 1. Employee Management System (EMS) 🚀
+### 1. Prime Inspire - Education App 🎓
 
 **Status: Complete ✅**
-The EMS Dashboard focuses on creating a data-rich environment that remains clean and legible across all device types. It highlights administrative workflows and data density.
+A high-end, multi-page educational platform designed for online learning. This project focuses on professional branding, clean course layouts, and accessible navigation for students and instructors.
 
 ### 2. Multi-Page Blog CMS ✍️
 
 **Status: Complete ✅**
 A sophisticated, content-heavy blog application featuring a magazine-style layout. This project focuses on multi-page architecture, content categorization, and complex sidebar integrations.
 
+### 3. Employee Management System (EMS) 🚀
+
+**Status: Complete ✅**
+The EMS Dashboard focuses on creating a data-rich environment that remains clean and legible across all device types. It highlights administrative workflows and data density.
+
 ---
 
 ## 🔗 Live Demos & Screenshots
 
-| Project           | Live Link                                                     |
-| :---------------- | :------------------------------------------------------------ |
-| **EMS Dashboard** | [Click to View Live](https://ems-project-1.netlify.app/)      |
-| **Blog App**      | [Click to View Live](https://blog-app-bootstrap.netlify.app/) |
+| Project                 | Live Link                                                     |
+| :---------------------- | :------------------------------------------------------------ |
+| **Prime Inspire (Edu)** | [Click to View Live](https://prime-inspire.netlify.app/)      |
+| **Blog App**            | [Click to View Live](https://blog-app-bootstrap.netlify.app/) |
+| **EMS Dashboard**       | [Click to View Live](https://ems-project-1.netlify.app/)      |
 
-#### **Project 1: EMS Preview**
+#### **Project 1: Prime Inspire Preview**
 
-![EMS Preview](./screenshots/ems.png)
+![Prime Inspire Preview](./screenshots/prime-inspire.png)
 
 #### **Project 2: Blog App Preview**
 
 ![Blog App Preview](./screenshots/blog.png)
 
+#### **Project 3: EMS Preview**
+
+![EMS Preview](./screenshots/ems.png)
+
 ---
 
 ## 🛠️ Technical Highlights
 
-### **Project 1: EMS Power Features**
+### **Project 1: Prime Inspire (Education App)**
 
-- **Advanced Grid:** Utilizing `row-cols-*` for responsive card decks.
-- **Form Architecture:** Professional data-entry points with **Floating Labels** and **Input Groups**.
-- **Utility-First Approach:** Massive reduction in custom CSS by leveraging Bootstrap's spacing, typography, and border utilities.
+This project integrated all core Bootstrap modules into a cohesive commercial UI:
+
+- **Comprehensive Multi-page Layout:** Consistent branding across Home, Courses, and About pages.
+- **Interactive UI:** Heavy use of **Modals** for student login/registration and course enrollment.
+- **Navigation Architecture:** A professional **Navbar** and **Footer** system with social integration and quick links.
+- **Course Grids:** Utilized the grid system to create responsive card-based course directories.
 
 ### **Project 2: Blog App Features**
 
-This project pushed the boundaries of content layout and navigation:
+- **Multi-Page Architecture:** Managed separate layouts for Home, Posts, Categories, and Search pages.
+- **Advanced Layouts:** Combined **Bootstrap Grid** and **Flexbox** for magazine-style banners.
+- **Interactive Components:** Implementation of Pagination, Breadcrumbs, and quick-add Modals.
 
-- **Multi-Page Architecture:** Managed separate layouts for the Home, Posts, Categories, and Search results pages.
-- **Advanced Layouts:** Combined **Bootstrap Grid** and **Flexbox** to create magazine-style "Featured Post" banners and sidebars.
-- **Interactive Components:**
-  - **Modals:** Used for quick-add actions (Add Category, Add Post).
-  - **Pagination:** Implemented clean navigation for browsing multiple pages of posts.
-  - **Breadcrumbs:** Enhanced user navigation depth.
-- **Marketing Elements:** Built a conversion-focused **Newsletter Signup** section and a functional **Search Bar** interface.
+### **Project 3: EMS Power Features**
+
+- **Advanced Grid:** Utilizing `row-cols-*` for responsive card decks.
+- **Form Architecture:** Professional data-entry points with **Floating Labels** and **Input Groups**.
+- **Utility-First Approach:** Massive reduction in custom CSS by leveraging Bootstrap's built-in spacing and typography classes.
 
 ---
 
@@ -65,6 +78,7 @@ This project pushed the boundaries of content layout and navigation:
 - [x] **Module 3: Components** (Navbars, Modals, Pagination)
 - [x] **Project 2: Blog CMS** (Build Complete ✅)
 - [x] **Module 4: Helpers & Utilities** (Stacks, Ratios, Position)
+- [x] **Project 3: Prime Inspire Edu App** (Build Complete ✅)
 - [x] **Module 5: Customization** (Sass, Variable Overrides, API)
 
 ---
@@ -73,5 +87,5 @@ This project pushed the boundaries of content layout and navigation:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Sobuj54/learning-bootstrap.git
+   git clone [https://github.com/Sobuj54/learning-bootstrap.git](https://github.com/Sobuj54/learning-bootstrap.git)
    ```
